@@ -1,5 +1,7 @@
 # Welcome to php
 
+![PHP](https://www.milesweb.in/hosting-faqs/wp-content/uploads/2019/05/How-To-Deploy-a-PHP-Application-with-Kubernetes-on-Ubuntu-16.04.gif)
+
 ## objectives:
 
 - understanding the root of bug fixing
